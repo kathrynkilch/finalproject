@@ -1,0 +1,126 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+.custom-margin {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+body {
+    background-color: #E6E6FA;
+}
+
+.nav-link {
+  background-color: #D8BFD8; 
+  color: white; 
+  border-radius: 5px; 
+  padding: 10px 15px; 
+  text-align: center;
+}
+
+.nav-link:hover {
+  background-color: #BA55D3; 
+  color: white; 
+}
+
+.nav-link.active {
+  background-color: #BA55D3 !important; 
+  color: white !important; 
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-pills .nav-item {
+    margin: 0 10px; 
+}
+
+.nav-pills .nav-item {
+    margin-right: 80px; 
+}
+
+
+.navbar {
+    background-color: #E6E6FA !important;  
+}
+
+.menu-section {
+    text-align: center; 
+}
+
+#menu-section {
+    text-align: center;
+}
+
+#menu-section ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+#menu-section h2 {
+    color: black; 
+}
+
+#contact-section {
+    text-align: center;
+}
+
+.bi-instagram {
+     color: lightpink;
+     font-size: 70px;
+}
+
+.bi-facebook {
+    color: lightpink;
+    font-size: 70px;
+}
+
+.bi-youtube {
+    color: lightpink;
+    font-size: 70px;
+}
+
+.btn-primary {
+    background-color: lightpink; 
+    border-color: #FFC0CB; 
+    color: white; 
+}
+
+.btn-primary:hover {
+    background-color: #FF69B4; 
+    border-color: #FF69B4; 
+    color: white; 
+}
+
+
+a {
+    color: #FFC0CB; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #FFB6C1; 
+}
+
+#carouselExample {
+    max-width: 80%; 
+    margin: 0 auto; 
+}
+
+#carouselExample .carousel-inner {
+    height: auto; 
+}
+
+#carouselExample .carousel-item img {
+    max-width: 100%; 
+    max-height: 400px; 
+    object-fit: contain; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+
+
+
+
